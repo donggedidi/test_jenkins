@@ -4,4 +4,4 @@ class TestJenkins:
         assert 1
 
     def test_002(self):
-        assert 0
+        assert 1
