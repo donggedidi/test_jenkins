@@ -1,0 +1,56 @@
+{
+  "uid" : "619030b9a6029a8",
+  "name" : "test_001",
+  "fullName" : "scripts.test_jenkins.TestJenkins#test_001",
+  "historyId" : "34a648f491ee750c6b723cb00a15b00b",
+  "time" : {
+    "start" : 1613270761243,
+    "stop" : 1613270761243,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_jenkins"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJenkins"
+  }, {
+    "name" : "host",
+    "value" : "zhaimeidembp"
+  }, {
+    "name" : "thread",
+    "value" : "5256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_jenkins"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "619030b9a6029a8.json",
+  "parameterValues" : [ ]
+}

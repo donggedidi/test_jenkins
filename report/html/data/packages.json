@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_jenkins",
+    "children" : [ {
+      "name" : "test_001",
+      "uid" : "619030b9a6029a8",
+      "parentUid" : "f60bf29882ee57aac2549cf5d4be63fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613270761243,
+        "stop" : 1613270761243,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_002",
+      "uid" : "8306299d28e3b635",
+      "parentUid" : "f60bf29882ee57aac2549cf5d4be63fa",
+      "status" : "failed",
+      "time" : {
+        "start" : 1613270761245,
+        "stop" : 1613270761245,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scripts.test_jenkins"
+  } ]
+}
